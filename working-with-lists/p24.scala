@@ -1,0 +1,1 @@
+http://aperiodic.net/phil/scala/s-99/p24.scala
